@@ -36,9 +36,8 @@ This project produces three key deliverables:
 
 1.  **The Predictive Model:** A trained `LGBM` model logged and versioned in the `mlruns` directory via MLflow.
 2.  **The MLflow Dashboard:** A complete dashboard showing all experiment runs, parameters, and metrics.
-    * *(To add: Insert a screenshot of your `mlflow ui` here)*
 3.  **The Failure Hotspot Map:** A self-contained `failure_hotspot_map.html` file that visually identifies high-risk vehicles.
-    * *(To add: Insert a screenshot of your interactive map here)*
+   
 
 ## How to Run This Project
 
